@@ -1,4 +1,4 @@
-e\cd path/to/your/directory
+cd path/to/your/directory
 
 def say_hello():
     print("hello")
